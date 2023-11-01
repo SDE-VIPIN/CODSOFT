@@ -1,2 +1,2 @@
 # CODSOFT
-https://sde-vipin.github.io/CODSOFT/Calculator
+https://sde-vipin.github.io/CODSOFT/Calculator/Calculator.py
